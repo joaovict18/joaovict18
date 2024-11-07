@@ -1,5 +1,5 @@
 ## Introdução
-Meu nome é <strong>João Victor Medeiros Gondim</strong> e sou aluno no curso de Ciência e Tecnologia na UFERSA. Onde almejo, no segundo ciclo, cursar Engenharia de Computação na mesma universidade.
+Meu nome é <strong>João Victor</strong> e sou aluno no curso de Ciência e Tecnologia na UFERSA. Onde almejo, no segundo ciclo, cursar Engenharia de Computação na mesma universidade.
 
 ## Experiência e educação
 
