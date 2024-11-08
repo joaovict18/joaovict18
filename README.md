@@ -1,11 +1,13 @@
 ## Introdução
-Meu nome é <strong>João Victor</strong> e sou aluno no curso de Ciência e Tecnologia na UFERSA. Onde almejo, no segundo ciclo, cursar Engenharia de Computação na mesma universidade.
+Meu nome é <strong>João Victor</strong> e sou discente no curso de Ciência e Tecnologia na UFERSA - Universidade Federal Rural do Semi-Árido. Na qual pretendo no segundo ciclo, cursar Engenharia de Computação posteriormente.
 
 ## Experiência e educação
 
 - Membro do projeto de extensão, <em>EmbarcAção - Eletrônica Embarcada em Ação</em> na UFERSA.
 - Bacharelando em Ciência e Tecnologia pela UFERSA.
 - Participante de diversos cursos e eventos ministrados na UFERSA.
+- Educando no curso de Java COMPLETO por Nélio Alves
+- Web Development's student at The Odin Project (TOP)
 
 ## Tecnologias
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
