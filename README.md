@@ -6,7 +6,7 @@ Meu nome é <strong>João Victor</strong> e sou discente no curso de Ciência e 
 - Membro do projeto de extensão, <em>EmbarcAção - Eletrônica Embarcada em Ação</em> na UFERSA.
 - Bacharelando em Ciência e Tecnologia pela UFERSA.
 - Participante de diversos cursos e eventos ministrados na UFERSA.
-- Educando no curso de Java COMPLETO por Nélio Alves
+- Aluno no curso de Java COMPLETO por Nélio Alves
 - Web Development's student at The <em>Odin Project</em>
 
 ## Tecnologias
