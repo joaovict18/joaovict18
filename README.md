@@ -1,5 +1,5 @@
 ## Introdução
-Meu nome é <strong>João Victor</strong> e sou discente no curso de Ciência e Tecnologia na UFERSA - Universidade Federal Rural do Semi-Árido. Na qual pretendo no segundo ciclo, cursar Engenharia de Computação.
+Meu nome é <strong>João Victor</strong> e sou discente no curso de Ciência e Tecnologia na UFERSA - Universidade Federal Rural do Semi-Árido.
 
 ## Experiência e educação
 
