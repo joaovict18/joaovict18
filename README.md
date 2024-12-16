@@ -8,6 +8,7 @@ Meu nome é <strong>João Victor</strong> e sou discente no curso de Ciência e 
 - Participante de diversos cursos e eventos ministrados na UFERSA.
 - Aluno no curso de Java COMPLETO por Nélio Alves
 - Web Development's student at The <em>Odin Project</em>
+- Aventureiro no campo de Ciência de Dados pela <em>Data Science Academy</em>
 
 ## Tecnologias
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
