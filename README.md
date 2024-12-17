@@ -1,5 +1,5 @@
 ## Introdução
-Meu nome é <strong>João Victor</strong> e sou discente no curso de Ciência e Tecnologia na UFERSA - Universidade Federal Rural do Semi-Árido. Sou um apaixonado pelo mundo da computação pelo o que ela foi e virá de ser!
+Meu nome é <strong>João Victor</strong> e sou discente no curso de Ciência e Tecnologia na UFERSA - Universidade Federal Rural do Semi-Árido. Onde planejo, em um futuro próximo cursar Engenharia de Computação.
 
 ## Experiência e educação
 
