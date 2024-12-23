@@ -1,16 +1,36 @@
-## Hi there 👋
+## Olá! 👋
 
-<!--
-**joaovict18/joaovict18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```java
+public class EstudanteDeCienciaETecnologia {
+    private String nome;
+    private String cursoAtual;
+    private String cursoDeSegundoCiclo;
+    private String universidade;
+    private String[] idiomas;
 
-Here are some ideas to get you started:
+    public EstudanteDeCienciaETecnologia() {
+        nome = "João Victor";
+        cursoAtual = "Ciência e Tecnologia";
+        cursoDeSegundoCiclo = "Engenharia de Computação";
+        universidade = "UFERSA";
+        idiomas = new String[] {"pt_BR", "en_US"};
+    }
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim:
+- 🧑‍💻 **Membro do** [EmbarcAção](https://github.com/embarcacaoufersa) (Eletrônica Embarcada em Ação);
+
+## Linguagens e ferramentas:
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" /></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" /></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /></code>
+
+## Contato:
+[<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" />](mailto:jovimedim@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/joaovict19/)
