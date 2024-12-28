@@ -1,21 +1,14 @@
 ## Olá! 👋
 
-```java
-public class EstudanteDeCienciaETecnologia {
-    private String nome;
-    private String cursoAtual;
-    private String cursoDeSegundoCiclo;
-    private String universidade;
-    private String[] idiomas;
+```python
+class EstudanteDeCienciaETecnologia:
+    def __init__(self):
+        self.nome = "Victor"
+        self.cursoDeSegundoCiclo = "Engenharia de Computação"
+        self.universidade = "UFERSA"
+        self.idiomas = ["pt_BR", "en_US"]
 
-    public EstudanteDeCienciaETecnologia() {
-        nome = "João Victor";
-        cursoAtual = "Ciência e Tecnologia";
-        cursoDeSegundoCiclo = "Engenharia de Computação";
-        universidade = "UFERSA";
-        idiomas = new String[] {"pt_BR", "en_US"};
-    }
-}
+eu = EstudanteDeCienciaETecnologia()
 ```
 
 ## Sobre mim:
