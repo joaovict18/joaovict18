@@ -41,7 +41,3 @@ Bem-vindo ao meu perfil! Sou um entusiasta de Engenharia de Software e Sistemas 
 
 -->
 
----
-
-### 📊 Estatísticas
-![As linguagens mais usadas pelo João](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovict18&layout=compact&theme=dark)
