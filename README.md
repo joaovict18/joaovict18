@@ -1,10 +1,10 @@
 # Olá, me chamo João Victor!
 
-Bem-vindo ao meu perfil! Sou um entusiasta de Engenharia de Software e Sistemas Computacionais, apaixonado em criar soluções que unem hardware, física e software.
+Olá! Sou Desenvolvedor e estudante de Ciência da Computação na UFERSA. Focado na construção de soluções em Engenharia de Software, aliando forte base em sistemas computacionais à modelagem eficiente de dados.
 
 ### 🛠️ Atuação 
 * Estudante de Ciência da Computação na UFERSA.
-* Gestor de Desenvolvimento da Equipe PegAzuls Aerodesign.
+* Desenvolvedor focado em Engenharia de Software (Backend) e Dados.
 
 ### 📬 Contato:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jovimedim@gmail.com)
